@@ -100,15 +100,6 @@ Navigate your browser to following address.
 http://localhost:8000
 ```
 
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](LICENCE.md)
-
 ## Screenshots
 
 ![Screenshot #2](/screenshots/2.png?raw=true "Screenshot #2")
@@ -118,3 +109,11 @@ Please make sure to update tests as appropriate.
 ![Screenshot #6](/screenshots/6.png?raw=true "Screenshot #6")
 ![Screenshot #7](/screenshots/7.png?raw=true "Screenshot #7")
 ![Screenshot #8](/screenshots/8.png?raw=true "Screenshot #8")
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](LICENCE.md)
